@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-plugin-release-probe
+      name: dsh-plugin-release-probe
+      config: {}

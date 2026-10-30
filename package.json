@@ -1,0 +1,11 @@
+{
+  "name": "dsh-plugin-release-probe",
+  "version": "0.0.1",
+  "description": "A throwaway plugin used to test dsh-plugin release end to end.",
+  "type": "module",
+  "main": "index.js",
+  "files": ["index.js", "client.js", "cordis.patch.yml", "README.md"],
+  "engines": { "node": ">=18", "dsh": ">=0.2.0" },
+  "dsh": { "bundle": { "patch": "./cordis.patch.yml" } },
+  "license": "Apache-2.0"
+}
