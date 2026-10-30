@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugin-release-probe",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A throwaway plugin used to test dsh-plugin release end to end.",
   "type": "module",
   "main": "index.js",
