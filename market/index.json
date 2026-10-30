@@ -5,13 +5,29 @@
       "name": "dsh-plugin-release-probe",
       "title": "Release probe",
       "description": "A throwaway plugin used to test dsh-plugin release end to end.",
-      "repository": { "url": "https://github.com/WJDdidi-1/dsh-plugin-release-probe" },
+      "repository": {
+        "url": "https://github.com/WJDdidi-1/dsh-plugin-release-probe"
+      },
       "versions": [
+        {
+          "version": "0.0.6",
+          "publishTimestamp": 1793387607,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0"
+          }
+        },
         {
           "version": "0.0.1",
           "publishTimestamp": 1793381768,
-          "source": { "type": "npm" },
-          "engines": { "dsh": ">=0.2.0" }
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.0"
+          }
         }
       ]
     }
